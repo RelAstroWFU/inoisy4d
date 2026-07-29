@@ -22,7 +22,7 @@ references at the end of this file.
 The use of inoisy+ in scientific publications must be properly acknowledged. Please cite:
 
 _______
-Cardenas-Avendano, A., Rubiera-Garcia, D. & Vincent, F. H. "An Off-Equatorial Gaussian Random Field Generator for Modeling Spatiotemporal Variability in Astrophysical Sources." [arXiv:2607.XXXX](https://arxiv.org/abs/) 
+Cardenas-Avendano, A., Rubiera-Garcia, D. & Vincent, F. H. "A Four-Dimensional Gaussian Random Field Generator for Modeling Spatiotemporal Variability in Astrophysical Sources." [arXiv:2607.16576](https://arxiv.org/abs/2607.16576) 
 _______
 
 We also request that inoisy+ modifications or extensions leading to a scientific publication be made public as free software. 
